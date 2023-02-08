@@ -1,4 +1,4 @@
-public class Android extends phone{
+public class Android extends Phone{
 
     @Override
     public int getSize() {

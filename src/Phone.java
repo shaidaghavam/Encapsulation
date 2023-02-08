@@ -1,4 +1,4 @@
-public class phone {
+public class Phone {
     private String cameraQuality;
     private String battery;
     private String operatingSystem;

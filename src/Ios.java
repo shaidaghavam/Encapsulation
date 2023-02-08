@@ -1,4 +1,4 @@
-public class ios extends phone{
+public class Ios extends Phone{
 
     @Override
     public String getOperatingSystem() {
